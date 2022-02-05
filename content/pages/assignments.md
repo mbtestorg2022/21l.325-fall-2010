@@ -11,7 +11,36 @@ In the first iteration of the subject, the final projects for 21L.325 were diver
 {{< anchor "Student_Work" >}}Student Work{{< /anchor >}}
 --------------------------------------------------------
 
-| STUDENT | ASSIGNMENTS |
-| --- | --- |
-| MIT Student | Sketching the Present ([PDF - 5.0MB]({{< baseurl >}}/resources/mit21l_325f10_assn01)) (Courtesy of MIT Students. Used with permission.) |
-| MIT Student | 1000 Words is Nothing: The Photographic Present in Relation to Informational Extraction ([PDF]({{< baseurl >}}/resources/mit21l_325f10_assn02)) (Courtesy of MIT Student. Used with permission.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+STUDENT
+{{< thclose >}}
+{{< thopen >}}
+ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT Student
+{{< tdclose >}}
+{{< tdopen >}}
+Sketching the Present ([PDF - 5.0MB]({{< baseurl >}}/resources/mit21l_325f10_assn01)) (Courtesy of MIT Students. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+MIT Student
+{{< tdclose >}}
+{{< tdopen >}}
+1000 Words is Nothing: The Photographic Present in Relation to Informational Extraction ([PDF]({{< baseurl >}}/resources/mit21l_325f10_assn02)) (Courtesy of MIT Student. Used with permission.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

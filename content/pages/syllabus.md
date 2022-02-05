@@ -33,23 +33,224 @@ Plagiarism — use of another's intellectual work without acknowledgment — is 
 Calendar
 --------
 
-| WEEK # | TOPICS |
-| --- | --- |
-| 1 |  {{< br >}}{{< br >}} Augustine. "Time and Eternity." {{< br >}}{{< br >}} Using whatever media you have available in class today (pen and paper, chalk and blackboard, laptop, smartphone, etc.), take 5-10 minutes to document the present moment in time. What do you see and hear around you? What is the "atmosphere" like? What are you thinking and feeling at this moment? When you have finished, we will reflect on similarities and differences between accounts, and consider how and to what effect various media are used to record or evoke the passing present. {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**The Digital Present**{{< /td-colspan >}} ||
-| 2 |  {{< br >}}{{< br >}} Mayer-Schonberger, Victor. "Of Power and Time - Consequences of the Demise of Forgetting." In _Delete: The Virtue of Forgetting in the Digital Age_. {{< br >}}{{< br >}} Bell, Gordon, and Gemmell, Jim. "Vision." In _Total Recall: How the E-Memory Revolution Will Change Everything_. {{< br >}}{{< br >}} Jameson, Fredric. "The End of Temporality." {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**The Lyric Present**{{< /td-colspan >}} ||
-| 3 |  {{< br >}}{{< br >}} Swift, Jonathan. "A Description of the Morning", "A Description of a City Shower", "The Progress of Beauty", "The Lady's Dressing Room", "A Beautiful Young Nymph Going to Bed", "Strephon and Chloe". {{< br >}}{{< br >}} Hunter, Paul J. "Journalism: The Commitment to Contemporaneity." {{< br >}}{{< br >}}  |
-| 4 |  {{< br >}}{{< br >}} Coleridge, Samuel Taylor. "Effusion XXXV", "Frost at Midnight", "The Nightingale", "This Lime-Tree Bower My Prison", "Dejection: An Ode". {{< br >}}{{< br >}} Wordsworth, William. "Lines, Written a Few Miles Above Tintern Abbey." {{< br >}}{{< br >}}  |
-| 5 |  {{< br >}}{{< br >}} Wordsworth, William. "Residence In London." {{< br >}}{{< br >}} Keats, John. "Ode to Melancholy", "Ode to a Nightingale", "To Autumn". {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**The Pictographic Present**{{< /td-colspan >}} ||
-| 6 |  {{< br >}}{{< br >}} Sketches by Constantin Guys. {{< br >}}{{< br >}} Baudelaire, Charles. "The Painter of Modern Life", "To a Passer-by". {{< br >}}{{< br >}} Kern, Stephen. "The Present." {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**The Photographic Present**{{< /td-colspan >}} ||
-| 7 |  {{< br >}}{{< br >}} Images from Eadweard Muybridge and Etienne-Jules Marey. {{< br >}}{{< br >}} Braun, Marta. "The Expanded Present: Photographic Movement." {{< br >}}{{< br >}} Canales, Jimena. "Introduction" and "Conclusion." {{< br >}}{{< br >}}  |
-| 8 | Barthes, Roland. _Camera Lucida: Reflections on Photography_. |
-| {{< td-colspan 2 >}}**The Cinematic Present**{{< /td-colspan >}} ||
-| 9 |  {{< br >}}{{< br >}} Edison, Thomas and Lumiere Bros. _Landmarks of Early Film, Vol. 1_. {{< br >}}{{< br >}} Benjamin, Walter. "The Work of Art in the Age of its Technological Reproducibility." {{< br >}}{{< br >}} Gunning, Tom. "The Cinema of Attractions", "An Aesthetic of Astonishment: Early Film and the (In)Credulous Spectator". {{< br >}}{{< br >}}  |
-| 10 |  {{< br >}}{{< br >}} Vertov, Dziga. _The Man with the Movie Camera_. {{< br >}}{{< br >}} Charney, Leo. "In a Moment: Film and the Philosophy of Modernity." {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Presentations**{{< /td-colspan >}} ||
-| 11 | Student Project Presentations |
-| 12 | Student Project Presentations (cont.)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Augustine. "Time and Eternity."
+
+Using whatever media you have available in class today (pen and paper, chalk and blackboard, laptop, smartphone, etc.), take 5-10 minutes to document the present moment in time. What do you see and hear around you? What is the "atmosphere" like? What are you thinking and feeling at this moment? When you have finished, we will reflect on similarities and differences between accounts, and consider how and to what effect various media are used to record or evoke the passing present.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**The Digital Present**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Mayer-Schonberger, Victor. "Of Power and Time - Consequences of the Demise of Forgetting." In _Delete: The Virtue of Forgetting in the Digital Age_.
+
+Bell, Gordon, and Gemmell, Jim. "Vision." In _Total Recall: How the E-Memory Revolution Will Change Everything_.
+
+Jameson, Fredric. "The End of Temporality."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**The Lyric Present**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Swift, Jonathan. "A Description of the Morning", "A Description of a City Shower", "The Progress of Beauty", "The Lady's Dressing Room", "A Beautiful Young Nymph Going to Bed", "Strephon and Chloe".
+
+Hunter, Paul J. "Journalism: The Commitment to Contemporaneity."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Coleridge, Samuel Taylor. "Effusion XXXV", "Frost at Midnight", "The Nightingale", "This Lime-Tree Bower My Prison", "Dejection: An Ode".
+
+Wordsworth, William. "Lines, Written a Few Miles Above Tintern Abbey."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Wordsworth, William. "Residence In London."
+
+Keats, John. "Ode to Melancholy", "Ode to a Nightingale", "To Autumn".
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**The Pictographic Present**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Sketches by Constantin Guys.
+
+Baudelaire, Charles. "The Painter of Modern Life", "To a Passer-by".
+
+Kern, Stephen. "The Present."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**The Photographic Present**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Images from Eadweard Muybridge and Etienne-Jules Marey.
+
+Braun, Marta. "The Expanded Present: Photographic Movement."
+
+Canales, Jimena. "Introduction" and "Conclusion."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Barthes, Roland. _Camera Lucida: Reflections on Photography_.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**The Cinematic Present**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Edison, Thomas and Lumiere Bros. _Landmarks of Early Film, Vol. 1_.
+
+Benjamin, Walter. "The Work of Art in the Age of its Technological Reproducibility."
+
+Gunning, Tom. "The Cinema of Attractions", "An Aesthetic of Astonishment: Early Film and the (In)Credulous Spectator".
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Vertov, Dziga. _The Man with the Movie Camera_.
+
+Charney, Leo. "In a Moment: Film and the Philosophy of Modernity."
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Presentations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Student Project Presentations
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Student Project Presentations (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
